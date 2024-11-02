@@ -1,0 +1,4 @@
+SpeechRecognition
+numpy
+soundfile
+sqlite3
